@@ -120,12 +120,20 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Status" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XXo-yd-JOm">
+                                <rect key="frame" x="169" y="503" width="49" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="rZY-e9-SHw"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <navigationItem key="navigationItem" title="Sign up" id="8nO-7f-3us"/>
                     <connections>
+                        <outlet property="lblStatus" destination="XXo-yd-JOm" id="xbe-So-nBu"/>
                         <outlet property="txtEmail" destination="Yib-NX-NTM" id="Gw1-od-JIm"/>
                         <outlet property="txtPassword" destination="67S-yF-hmR" id="gMR-Vd-tBs"/>
                     </connections>
