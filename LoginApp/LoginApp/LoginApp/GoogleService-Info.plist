@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>474577633353-t5djqa96tmhl6hobdji67v8r6qjcnr9t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.474577633353-t5djqa96tmhl6hobdji67v8r6qjcnr9t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwjf4OATsectoKinRTyvFx6sJHLnBqTi4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>474577633353</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.northeastern.jingxinhao.LoginApp</string>
+	<key>PROJECT_ID</key>
+	<string>ios-dev-1867c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ios-dev-1867c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:474577633353:ios:17e65f00b943e246e6ff98</string>
+	<key>DATABASE_URL</key>
+	<string>https://ios-dev-1867c.firebaseio.com</string>
+</dict>
+</plist>

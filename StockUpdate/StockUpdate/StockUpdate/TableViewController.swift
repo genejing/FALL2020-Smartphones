@@ -2,7 +2,7 @@
 //  TableViewController.swift
 //  StockUpdate
 //
-//  Created by Xinhao Jing on 11/5/20.
+//  Created by Xinhao Jing on 11/8/20.
 //
 
 import UIKit
