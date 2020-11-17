@@ -17,6 +17,7 @@
 		72F9A67C2563A69600C806AA /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72F9A67B2563A69600C806AA /* Utilities.swift */; };
 		72F9A67F2563AE4900C806AA /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72F9A67E2563AE4900C806AA /* DashboardViewController.swift */; };
 		72F9A6822563B63300C806AA /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72F9A6812563B63300C806AA /* SignUpViewController.swift */; };
+		72F9A68525646DD200C806AA /* ForgetPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72F9A68425646DD200C806AA /* ForgetPasswordViewController.swift */; };
 		7E6BE8851CAE32AB7C17BBCE /* Pods_LoginApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F1D74F3C9056F7FE9CE2BD4 /* Pods_LoginApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -36,6 +37,7 @@
 		72F9A67B2563A69600C806AA /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		72F9A67E2563AE4900C806AA /* DashboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
 		72F9A6812563B63300C806AA /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		72F9A68425646DD200C806AA /* ForgetPasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgetPasswordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				72F9A64725639BDB00C806AA /* Info.plist */,
 				72F9A67E2563AE4900C806AA /* DashboardViewController.swift */,
 				72F9A6812563B63300C806AA /* SignUpViewController.swift */,
+				72F9A68425646DD200C806AA /* ForgetPasswordViewController.swift */,
 			);
 			path = LoginApp;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 				72F9A63E25639BD600C806AA /* ViewController.swift in Sources */,
 				72F9A63A25639BD600C806AA /* AppDelegate.swift in Sources */,
 				72F9A67F2563AE4900C806AA /* DashboardViewController.swift in Sources */,
+				72F9A68525646DD200C806AA /* ForgetPasswordViewController.swift in Sources */,
 				72F9A67C2563A69600C806AA /* Utilities.swift in Sources */,
 				72F9A63C25639BD600C806AA /* SceneDelegate.swift in Sources */,
 			);
